@@ -1,0 +1,20 @@
+# FLUFFY — Your Little World of Fluff
+> Real-Time Interactive 3D WebGL2 & Three.js Furry Companion
+
+Author: Teja Priyan
+Website: https://tejapriyan.github.io/FLUFFY/
+GitHub: https://github.com/TejaPriyan/FLUFFY
+Support: https://buymeacoffee.com/tejapriyan
+License: MIT
+
+## Summary
+FLUFFY is an open-source, interactive 3D virtual pet running directly inside modern web browsers.
+
+### Key Capabilities
+- **38,000 WebGL2 Instanced Hair Strands:** Rendered in a single draw call with 10-segment quadratic Bézier curves and dual-lobe Kajiya-Kay / Marschner sheen.
+- **64 Verlet / Spring Physics Guides:** Real-time movement dynamics responding to jumping, turning, shaking, and blow-drying across 5 anatomical zones.
+- **3D Hair Salon:** Procedural shears for trimming, growth potion for instant regrowth, 3D directional hair dryer, and ombré / rainbow tip dye.
+- **Bath & Wet-Fur Simulation:** Dynamic clump weights under running water and clinging procedural foam bubbles.
+- **3D Toys & Activities:** Chasing a bouncing 3D yarn ball, hunting an interactive laser pointer dot, berry macaron feeding, and musical chiptune dance party.
+- **Procedural 3D Accessories:** 9 wearable accessories (crown, wings, bow, glasses, headphones, tiny hat, bell collar, scarf) and cozy quilted pet bed.
+- **Offline PWA & Standalone:** Operates with 0 dependencies or backend servers, capable of running offline on iOS, Android, macOS, Linux, and Windows.

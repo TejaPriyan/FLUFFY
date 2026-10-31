@@ -1,0 +1,31 @@
+{
+  "name": "fluffy-3d-companion",
+  "version": "12.0.0",
+  "description": "FLUFFY — Your Little World of Fluff: Real-Time Interactive 3D WebGL2 & Three.js Furry Companion",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx --yes serve .",
+    "dev": "python -m http.server 8080",
+    "serve": "npx --yes http-server ."
+  },
+  "keywords": [
+    "threejs",
+    "webgl2",
+    "virtual-pet",
+    "3d-fur-simulation",
+    "glsl-shaders",
+    "indie-game",
+    "html5-game"
+  ],
+  "author": "Teja Priyan (https://buymeacoffee.com/tejapriyan)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TejaPriyan/FLUFFY.git"
+  },
+  "homepage": "https://tejapriyan.github.io/FLUFFY/",
+  "license": "MIT",
+  "funding": {
+    "type": "buymeacoffee",
+    "url": "https://buymeacoffee.com/tejapriyan"
+  }
+}
